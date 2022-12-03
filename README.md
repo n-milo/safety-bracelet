@@ -8,4 +8,8 @@ receiver app. The receiver app will then text an emergency contact.
 
 ## Demo
 
-![Demo](demo.mp4)
+![Demo](https://user-images.githubusercontent.com/12551569/205416682-bf3281f5-0984-43d7-bce5-7e4d4b6adbe3.mp4)
+
+
+
+
