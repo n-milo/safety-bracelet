@@ -6,3 +6,6 @@ contact one of the user's emergency contacts. An Arduino listens for
 button presses, and transmits data to a Bluetooth client running the
 receiver app. The receiver app will then text an emergency contact.
 
+## Demo
+
+![Demo](demo.mp4)
